@@ -1,8 +1,8 @@
 # VGMC-GitHub-Presentation
 
-Unity version: 2020.69.420
+Demo repository for a GitHub demonstration for Berklee VGMC
 
-
+your mother is a homosexual
 
 
 
